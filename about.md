@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于"
+title: "联系方式"
 description: "my name is Muxiqoqi.On my way to change"
 header-img: "img/green.jpg"
 ---
