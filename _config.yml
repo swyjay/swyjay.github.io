@@ -1,10 +1,10 @@
 # Site settings
-title: Hanson
+title: Muxiaoqi
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "muxiaoqi|Just DO It"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://swyjay.github.io"  
 
 # About/contact
 owner: 
@@ -21,7 +21,7 @@ twitter_username:
 github_username: zyphs21
 weibo_username: 木小柒
 facebook_username:
-zhihu_username: 独步剑心
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "muxiaoqi"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : muxiaoqi
   disqus :
-      short_name : hanson
+      short_name : muxiaoqi
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
