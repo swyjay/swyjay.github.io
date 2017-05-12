@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: "my name is Muxiqoqi.On my way to change"
 header-img: "img/green.jpg"
 ---
@@ -19,7 +19,6 @@ header-img: "img/green.jpg"
 
 *   李杰/男
 *   本科/郑州航空工业管理学院
-*   Github: <https://github.com/swyjay>
-*   
+*   Github: <https://github.com/swyjay>  
 
 * * *
