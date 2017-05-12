@@ -17,10 +17,9 @@ header-img: "img/green.jpg"
 
 # 个人信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客: <http://www.myhanson.com>
-*   Github: <https://github.com/swyjay>
+*   李杰/男
+*   本科/郑州航空工业管理学院
+*   Github: <https://github.com/swyjay>
 *   
 
 * * *
